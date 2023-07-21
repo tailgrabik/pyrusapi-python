@@ -2,7 +2,7 @@ import os
 from setuptools import setup, find_packages
 
 setup(name="pyrus-api-mod",
-      version="2.19.0",
+      version="2.19.1",
       python_requires='>=3.4',
       description="Python Pyrus API client",
       author="tailgrabik",
