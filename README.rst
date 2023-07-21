@@ -3,6 +3,8 @@ pyrus-api
 ==============================
 A python 3 client for the Pyrus API.
 
+Support custom URL for API and http proxy-server
+
 The full documentation for API can be found here_.
 
 .. _here: https://pyrus.com/en/help/api/
