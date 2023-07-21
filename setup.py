@@ -1,16 +1,16 @@
 import os
 from setuptools import setup, find_packages
 
-setup(name="pyrus-api",
+setup(name="pyrus-api-mod",
       version="2.19.0",
       python_requires='>=3.4',
       description="Python Pyrus API client",
-      author="Pyrus",
+      author="tailgrabik",
       long_description=open('README.rst', 'r').read(),
-      author_email="contact@pyrus.com",
+      author_email="tailgrabik@gmail.com",
       url="https://pyrus.com/en/help/api",
       project_urls={
-        'GitHub Project': 'https://github.com/simplygoodsoftware/pyrusapi-python'
+        'GitHub Project': 'https://github.com/tailgrabik/pyrusapi-python'
     },
       packages=find_packages(exclude=["*tests.*", "*test.*"]),
       license='MIT License',
