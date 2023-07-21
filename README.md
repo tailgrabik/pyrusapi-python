@@ -32,8 +32,9 @@ import pyrus.models
 ```
 * Create API client:
 
+
 ```python
-pyrus_client = client.PyrusAPI(login='login@pyrus.com', security_key='sadf2R5Wrdkn..')
+pyrus_client = client.PyrusAPI(login='login@pyrus.com', security_key='sadf2R5Wrdkn..', proxy='http://example.ru:3128', api_addr='api.example.ru/api')
 ```
 
 * Perform authorization:
