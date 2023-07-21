@@ -18,7 +18,7 @@ The full documentation for API can be found [here](https://pyrus.com/en/help/api
         ````
         $ easy_install --upgrade pyrus-api-mod
         ````
-    * Manual installation: [Download the latest version of pyrus-api client](https://pypi.python.org/pypi/pyrus-api/), unpack the code, and run:
+    * Manual installation: [Download the latest version of pyrus-api client](https://pypi.python.org/pypi/pyrus-api-mod/), unpack the code, and run:
 
         ````
         $ python setup.py install
