@@ -1,8 +1,11 @@
-# pyrus-api
+# pyrus-api-mod
 
 [![PyPI version](https://badge.fury.io/py/pyrus-api.svg)](https://badge.fury.io/py/pyrus-api)
 
 A Python 3 client for the Pyrus API.
+
+Support Pyrus API custom URL and proxy-server
+
 The full documentation for API can be found [here](https://pyrus.com/en/help/api/)
 
 ## Getting Started
