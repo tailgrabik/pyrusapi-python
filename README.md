@@ -279,4 +279,4 @@ changed_permissions = pyrus_client.change_permissions(123, request)
 
 ## Support
 
-If you have any questions or comments please send an email to support@pyrus.com
+If you have any questions or comments please send an email to tailgrabik@gmail.com
