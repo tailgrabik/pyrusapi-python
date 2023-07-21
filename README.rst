@@ -1,5 +1,5 @@
 ==============================
-pyrus-api
+pyrus-api-mod
 ==============================
 A python 3 client for the Pyrus API.
 
