@@ -32,7 +32,7 @@ To start with the module:
     
     >>>  from pyrus import client
     >>>  import pyrus.models
-    >>>  pyrus_client = client.PyrusAPI(login='login@pyrus.com', security_key='sadf2R5Wrdkn..')
+    >>>  pyrus_client = client.PyrusAPI(login='login@example.com', security_key='sadf2R5Wrdkn..',proxy='http://proxy:3128',api_addr='api.pyrus.com')
 
 -----------------
 Examples
