@@ -478,7 +478,7 @@ class PyrusAPI(object):
             class:`models.responses.ProfileResponse` object
         """
 
-        url = self._create_url('/profile?withinactive={}'.format(include_inactive))
+        url = self._create_url('/profile?include_inactive={}'.format(include_inactive))
         response = self._perform_get_request(url)
         return resp.ProfileResponse(**response)
 
